@@ -1,4 +1,5 @@
 service: battlesword-bot
+app: battlesword-bot
 
 provider:
   name: aws
