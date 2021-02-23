@@ -1,9 +1,9 @@
 {
-  "name": "daily-bread-bot",
+  "name": "battlesword-bot",
   "version": "1.0.0",
   "description": "Daily verse Telegram bot",
   "main": "handler.js",
-  "author": "Emmanuel Fallancy <emmanuel.fallancy@gmail.com> (https://emmanuel.dev)",
+  "author": "Adam J Gutierrez <battlesword2326@gmail.com>",
   "license": "MIT",
   "scripts": {
     "lint": "pretty-quick && eslint '*/**/*.ts'",
